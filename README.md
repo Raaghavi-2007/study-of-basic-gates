@@ -91,5 +91,6 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/0934b369-b49f-4111-886f-bd4d834515e4" />
 
 **Result:**
+
 Studied and verified the table of logic gates in QUARTUS II using Verilog programming succesfully
 
